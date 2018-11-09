@@ -15,7 +15,7 @@ You can download jQuery simply from https://code.jquery.com/jquery-3.3.1.min.js
 #### Include plugin with jQuery
 <pre><code>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script type="text/javascript" src="http://qalbit.com/js/hoopmeter.jQuery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/qalbit/Hoopmeter/dist/hoopmeter.jQuery.min.js"></script>
 </code></pre>
 
 #### Add default structure of HTML Code
